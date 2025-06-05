@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+optuna>=3.5.0
+hysteresis>=0.1.0
+openseespy>=3.4.0
+plotly>=5.18.0 
