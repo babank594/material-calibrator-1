@@ -1,4 +1,4 @@
-# OpenSees Material Model Calibrator
+# OpenSees uniaxialMaterial parameter calibration via Bayesian search 
 
 A tool for calibrating OpenSees material models using experimental data. This application uses Bayesian optimization to find the best material parameters that match experimental hysteresis curves.
 
