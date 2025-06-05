@@ -8,6 +8,10 @@ A tool for calibrating OpenSees material models using experimental data. This ap
 Shahid Beheshti University  
 Civil, Water, and Environmental Engineering Faculty  
 Email: smo.hosseini@mail.sbu.ac.ir
+
+## Demo
+
+Check out the demo of this application on LinkedIn: [View Demo](https://www.linkedin.com/posts/mohammad-hosseini-a0494a158_opensees-bayesianoptimization-materialmodeling-activity-7329334562998616064-lv7w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXe-SQBJUieOCLjfwkErb7fNiePjXDd4hY)
 ## Features
 
 - Interactive web interface built with Streamlit
