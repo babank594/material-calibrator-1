@@ -1,7 +1,13 @@
 # OpenSees Material Model Calibrator
 
-A powerful web-based tool for calibrating OpenSees material models using experimental data. This application uses Bayesian optimization to find the best material parameters that match experimental hysteresis curves.
+A tool for calibrating OpenSees material models using experimental data. This application uses Bayesian optimization to find the best material parameters that match experimental hysteresis curves.
 
+## Author
+
+**S. Mohammad Hosseini V.**  
+Shahid Beheshti University  
+Civil, Water, and Environmental Engineering Faculty  
+Email: smo.hosseini@mail.sbu.ac.ir
 ## Features
 
 - Interactive web interface built with Streamlit
@@ -15,7 +21,7 @@ A powerful web-based tool for calibrating OpenSees material models using experim
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/material-calibrator.git
+git clone https://github.com/FEMquake/material-calibrator.git
 cd material-calibrator
 ```
 
