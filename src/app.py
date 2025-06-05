@@ -1,6 +1,11 @@
 """
-OpenSees Material Model Calibrator
-A web-based tool for calibrating OpenSees material models using experimental data.
+Author: S. Mohammad Hosseini V.
+Affiliation: Shahid Beheshti University
+Department: Civil, Water, and Environmental Engineering Faculty
+Email: smo.hosseini@mail.sbu.ac.ir
+
+This tool optimizes uniaxialMaterial model parameters to fit experimental data utilizing
+Bayesian search and OpenSeespy.
 """
 
 import streamlit as st
